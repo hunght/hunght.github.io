@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "new day"
 categories: uncategories
 ---
 I better go sleep right now because it two late for people like me hangout on 1am.
