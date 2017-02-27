@@ -19,6 +19,7 @@ Instead of shoving everything into your view controller, we’re going to do a M
 [MVVM with RxSwift](https://realm.io/news/slug-max-alexander-mvvm-rxswift/)
 
 
+[CheatSheet for MVVM and RxSwift](https://github.com/hunght/hunght.github.io/tree/master/MVVM%26RxSwiftCheatSheet)
 
 Learn in Action
 ======
